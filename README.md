@@ -33,9 +33,8 @@ sol = np.linalg.solve(A,B)
 print(sol)
 ```
 
-## Output:
-
- file:///home/sec/Pictures/Screenshots/equation.png
+## Output
+![](./equation.png)
  
 ## Result file:
 Thus the solutions for the linear equations are successfully solved using python program
