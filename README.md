@@ -34,7 +34,9 @@ print(sol)
 ```
 
 ## Output
-![](out1.png)
+
+![output](https://user-images.githubusercontent.com/120443233/208398371-efdb44eb-4ec4-4554-98cd-9fc68b434dfc.png)
+
  
 ## Result file:
 Thus the solutions for the linear equations are successfully solved using python program
