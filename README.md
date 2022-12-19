@@ -34,7 +34,7 @@ print(sol)
 ```
 
 ## Output:
-file:///home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/linearequation.png
-
+ file:///home/sec/Pictures/Screenshots/system%20of%20linear%20equation.png
+ 
 ## Result file:
 Thus the solutions for the linear equations are successfully solved using python program
